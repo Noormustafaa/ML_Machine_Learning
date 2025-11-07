@@ -1,0 +1,6 @@
+What is PCA (Principal Component Analysis)?
+ Definition:
+
+PCA is a dimensionality reduction technique used in machine learning and data analysis.
+
+It helps us reduce the number of variables (features) in a dataset while keeping the most important information.
